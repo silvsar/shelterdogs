@@ -38,3 +38,8 @@ This repository contains my final project for the LEDE Program at Columbia Unive
 - **Most typical dog:** Adult, large, male pit bull terrier
 - **Total unique shelters:** 140
 - **Shelter with most pit bulls:** NY512 (28 pit bulls)
+
+## Resources
+
+- [Petfinder API documentation](https://www.petfinder.com/developers/)
+- [Petfinder main adoption site](https://www.petfinder.com/)
