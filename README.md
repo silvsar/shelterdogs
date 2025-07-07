@@ -41,5 +41,5 @@ This repository contains my final project for the LEDE Program at Columbia Unive
 
 ## Resources
 
-- [Petfinder API documentation]([https://www.petfinder.com/developers/](https://www.petfinder.com/developers/))
-- [Petfinder main adoption site]([https://www.petfinder.com/](https://www.petfinder.com/search/dogs-for-adoption/us/new-york/?sort%5B0%5D=available_longest))
+- [Petfinder API documentation](https://www.petfinder.com/developers/)
+- [Petfinder main adoption site](https://www.petfinder.com/search/dogs-for-adoption/us/new-york/?sort%5B0%5D=available_longest)
